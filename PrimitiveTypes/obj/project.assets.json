@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\pirple\\pirple.csproj",
+      "projectUniqueName": "D:\\pirple\\PrimitiveTypes\\pirple.csproj",
       "projectName": "pirple",
-      "projectPath": "D:\\pirple\\pirple.csproj",
+      "projectPath": "D:\\pirple\\PrimitiveTypes\\pirple.csproj",
       "packagesPath": "C:\\Users\\elisa\\.nuget\\packages\\",
-      "outputPath": "D:\\pirple\\obj\\",
+      "outputPath": "D:\\pirple\\PrimitiveTypes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
