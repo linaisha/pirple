@@ -18,7 +18,7 @@ namespace Rextester{
             // integer
             // Ints são por padrão 32 bits
             int anInt = 1;
-            const int THE_CONST INT = 2;
+            const int THE_CONST_INT = 2;
 
             // float
             // floats são por padrão 32 bits
@@ -30,6 +30,15 @@ namespace Rextester{
             double aDouble = 2.234234;
             const double MY_DOUBLE = 12.345654;
 
+            // char
+            // letra a simbolo
+            char myChar = 'a';
+            const char MY_CONST_CHAR = '-';
+
+            // boolean
+            // valores sim/nao, positivo/negativo
+            bool myBool = true;
+            const bool MY_CONST_BOOL = false;
         }
     }
 }
