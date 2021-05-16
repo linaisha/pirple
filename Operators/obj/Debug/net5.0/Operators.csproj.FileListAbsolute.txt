@@ -1,0 +1,16 @@
+D:\pirple\Operators\obj\Debug\net5.0\Operators.csprojAssemblyReference.cache
+D:\pirple\Operators\obj\Debug\net5.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\pirple\Operators\obj\Debug\net5.0\Operators.AssemblyInfoInputs.cache
+D:\pirple\Operators\obj\Debug\net5.0\Operators.AssemblyInfo.cs
+D:\pirple\Operators\obj\Debug\net5.0\Operators.csproj.CoreCompileInputs.cache
+D:\pirple\operators\bin\Debug\net5.0\Operators.exe
+D:\pirple\operators\bin\Debug\net5.0\Operators.deps.json
+D:\pirple\operators\bin\Debug\net5.0\Operators.runtimeconfig.json
+D:\pirple\operators\bin\Debug\net5.0\Operators.runtimeconfig.dev.json
+D:\pirple\operators\bin\Debug\net5.0\Operators.dll
+D:\pirple\operators\bin\Debug\net5.0\ref\Operators.dll
+D:\pirple\operators\bin\Debug\net5.0\Operators.pdb
+D:\pirple\operators\obj\Debug\net5.0\Operators.dll
+D:\pirple\operators\obj\Debug\net5.0\ref\Operators.dll
+D:\pirple\operators\obj\Debug\net5.0\Operators.pdb
+D:\pirple\operators\obj\Debug\net5.0\Operators.genruntimeconfig.cache
