@@ -22,3 +22,11 @@ D:\pirple\conceptspasta\obj\Debug\net5.0\concepts.csproj.CoreCompileInputs.cache
 D:\pirple\conceptspasta\obj\Debug\net5.0\concepts.dll
 D:\pirple\conceptspasta\obj\Debug\net5.0\ref\concepts.dll
 D:\pirple\conceptspasta\obj\Debug\net5.0\concepts.pdb
+D:\pirple\conceptspasta\bin\Debug\net5.0\concepts.exe
+D:\pirple\conceptspasta\bin\Debug\net5.0\concepts.deps.json
+D:\pirple\conceptspasta\bin\Debug\net5.0\concepts.runtimeconfig.json
+D:\pirple\conceptspasta\bin\Debug\net5.0\concepts.runtimeconfig.dev.json
+D:\pirple\conceptspasta\bin\Debug\net5.0\concepts.dll
+D:\pirple\conceptspasta\bin\Debug\net5.0\ref\concepts.dll
+D:\pirple\conceptspasta\bin\Debug\net5.0\concepts.pdb
+D:\pirple\conceptspasta\obj\Debug\net5.0\concepts.genruntimeconfig.cache
