@@ -1,0 +1,16 @@
+D:\pirple\complexdatatypes\obj\Debug\net5.0\complexdatatypes.csprojAssemblyReference.cache
+D:\pirple\complexdatatypes\obj\Debug\net5.0\complexdatatypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\pirple\complexdatatypes\obj\Debug\net5.0\complexdatatypes.AssemblyInfoInputs.cache
+D:\pirple\complexdatatypes\obj\Debug\net5.0\complexdatatypes.AssemblyInfo.cs
+D:\pirple\complexdatatypes\obj\Debug\net5.0\complexdatatypes.csproj.CoreCompileInputs.cache
+D:\pirple\complexdatatypes\bin\Debug\net5.0\complexdatatypes.exe
+D:\pirple\complexdatatypes\bin\Debug\net5.0\complexdatatypes.deps.json
+D:\pirple\complexdatatypes\bin\Debug\net5.0\complexdatatypes.runtimeconfig.json
+D:\pirple\complexdatatypes\bin\Debug\net5.0\complexdatatypes.runtimeconfig.dev.json
+D:\pirple\complexdatatypes\bin\Debug\net5.0\complexdatatypes.dll
+D:\pirple\complexdatatypes\bin\Debug\net5.0\ref\complexdatatypes.dll
+D:\pirple\complexdatatypes\bin\Debug\net5.0\complexdatatypes.pdb
+D:\pirple\complexdatatypes\obj\Debug\net5.0\complexdatatypes.dll
+D:\pirple\complexdatatypes\obj\Debug\net5.0\ref\complexdatatypes.dll
+D:\pirple\complexdatatypes\obj\Debug\net5.0\complexdatatypes.pdb
+D:\pirple\complexdatatypes\obj\Debug\net5.0\complexdatatypes.genruntimeconfig.cache
