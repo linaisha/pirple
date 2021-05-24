@@ -1,0 +1,16 @@
+D:\pirple\controlflow\obj\Debug\net5.0\controlflow.csprojAssemblyReference.cache
+D:\pirple\controlflow\obj\Debug\net5.0\controlflow.GeneratedMSBuildEditorConfig.editorconfig
+D:\pirple\controlflow\obj\Debug\net5.0\controlflow.AssemblyInfoInputs.cache
+D:\pirple\controlflow\obj\Debug\net5.0\controlflow.AssemblyInfo.cs
+D:\pirple\controlflow\obj\Debug\net5.0\controlflow.csproj.CoreCompileInputs.cache
+D:\pirple\controlflow\bin\Debug\net5.0\controlflow.exe
+D:\pirple\controlflow\bin\Debug\net5.0\controlflow.deps.json
+D:\pirple\controlflow\bin\Debug\net5.0\controlflow.runtimeconfig.json
+D:\pirple\controlflow\bin\Debug\net5.0\controlflow.runtimeconfig.dev.json
+D:\pirple\controlflow\bin\Debug\net5.0\controlflow.dll
+D:\pirple\controlflow\bin\Debug\net5.0\ref\controlflow.dll
+D:\pirple\controlflow\bin\Debug\net5.0\controlflow.pdb
+D:\pirple\controlflow\obj\Debug\net5.0\controlflow.dll
+D:\pirple\controlflow\obj\Debug\net5.0\ref\controlflow.dll
+D:\pirple\controlflow\obj\Debug\net5.0\controlflow.pdb
+D:\pirple\controlflow\obj\Debug\net5.0\controlflow.genruntimeconfig.cache
