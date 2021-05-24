@@ -9,6 +9,12 @@ namespace controlflow
     {
         static void Main(string[] args)
         {
+            // control flow
+            // how your program flows
+            // loops, statements, and functions can alter the flow of your program
+            // VERY important to know how your program flows
+            // knowing your control flow can be easily used to fix problems in your code
+
             // random class
             // allows us to regerate ransom numbers
             Random randInt = new Random();
