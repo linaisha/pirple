@@ -17,6 +17,8 @@ namespace arraysandstrings
             myArray[0] = 234;
             myArray[1] = 5;
             myArray[2] = 6;
+            myArray[3] = 8;
+            myArray[4] = 15;
             Console.WriteLine(myArray[0]);
 
             // multidimensional array (matriz)
@@ -62,6 +64,27 @@ namespace arraysandstrings
             for(int i = 0; i < 5; i++){
                 Console.WriteLine(myCharArray[i]);
             }
+
+            // lists
+            // used to store multiple values
+            // the difference between a list and an array is that a list has dinamic memory and array has a fixed memory allocation
+
+            // declaring one
+            List<int> myList = new List<int>();
+
+            // add items we use Add
+            myList.Add(1);
+            myList.Add(2);
+            myList.Add(3);
+
+            Console.WriteLine("My first list item is: " + myList[0]);
+
+            // we can also add an entire array to a list
+            // we use AddRange
+            Console.WriteLine("myList size is: " + myList.Count);
+            myList.AddRange(myArray);
+            Console.WriteLine("myList size is: " + myList.Count);
+            Console.WriteLine("myList's fouth item is: " + myList[3]);
             
             string myString = "hello";
             Console.WriteLine("The last letter of Hello is: " + myString[4]);
