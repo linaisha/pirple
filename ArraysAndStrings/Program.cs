@@ -33,6 +33,25 @@ namespace arraysandstrings
             int[,,] my3DArray = new int[2,2,3] {{{1,2,3},{4,5,6}},{{7,8,9},{10,11,12}}};
             Console.WriteLine("my3DArray[1,0,2] is " + my3DArray[1,0,2]);
 
+            // jagged arrays
+            // these are arrays that hold other arrays that can be different sizes
+            int[][] myJagArray = new int[3][];
+            myJagArray[0] = new int[3] {1,2,3};
+            myJagArray[1] = new int[7] {4,5,6,7,8,9,10};
+            myJagArray[2] = new int[1] {11};
+
+            // accessing a jagged array
+            Console.WriteLine("My Jag Array[1][6] is: " + myJagArray[1][6]);
+
+            // alternate way of initializing our jagged arrays
+            char[][] myCharJagArray = new char[][]{
+                new char[]{'h','e','l','l','o'},
+                new char[]{'c','o','o','l'},
+                new char[]{'b','y','e'}
+            };
+
+            Console.WriteLine("My char jag array of [2][1] is: " + myCharJagArray[2][1]);
+
             char[] myCharArray = new char[5];
             myCharArray[0] = 'h';
             myCharArray[1] = 'e';
