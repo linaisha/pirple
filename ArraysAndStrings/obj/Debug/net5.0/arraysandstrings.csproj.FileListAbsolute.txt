@@ -1,0 +1,16 @@
+D:\pirple\arraysandstrings\bin\Debug\net5.0\arraysandstrings.exe
+D:\pirple\arraysandstrings\bin\Debug\net5.0\arraysandstrings.deps.json
+D:\pirple\arraysandstrings\bin\Debug\net5.0\arraysandstrings.runtimeconfig.json
+D:\pirple\arraysandstrings\bin\Debug\net5.0\arraysandstrings.runtimeconfig.dev.json
+D:\pirple\arraysandstrings\bin\Debug\net5.0\arraysandstrings.dll
+D:\pirple\arraysandstrings\bin\Debug\net5.0\ref\arraysandstrings.dll
+D:\pirple\arraysandstrings\bin\Debug\net5.0\arraysandstrings.pdb
+D:\pirple\arraysandstrings\obj\Debug\net5.0\arraysandstrings.csprojAssemblyReference.cache
+D:\pirple\arraysandstrings\obj\Debug\net5.0\arraysandstrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\pirple\arraysandstrings\obj\Debug\net5.0\arraysandstrings.AssemblyInfoInputs.cache
+D:\pirple\arraysandstrings\obj\Debug\net5.0\arraysandstrings.AssemblyInfo.cs
+D:\pirple\arraysandstrings\obj\Debug\net5.0\arraysandstrings.csproj.CoreCompileInputs.cache
+D:\pirple\arraysandstrings\obj\Debug\net5.0\arraysandstrings.dll
+D:\pirple\arraysandstrings\obj\Debug\net5.0\ref\arraysandstrings.dll
+D:\pirple\arraysandstrings\obj\Debug\net5.0\arraysandstrings.pdb
+D:\pirple\arraysandstrings\obj\Debug\net5.0\arraysandstrings.genruntimeconfig.cache
