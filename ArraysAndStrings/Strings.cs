@@ -51,6 +51,22 @@ namespace ArraysAndStrings
             mySB.Append(" is our first Program!");
             Console.WriteLine(mySB);
             Console.WriteLine("mySB capacity is: " + mySB.Capacity);
+
+            // insert adds a string to a certain location using indexes
+            mySB.Insert(25, "small ");
+            Console.WriteLine(mySB);
+
+            // Remove removes a list of characters starting at a certain location
+            mySB.Remove(25,6);
+            Console.WriteLine(mySB);
+
+            // Replace replaces characters/word with characters or words
+            mySB.Replace("our", "my");
+            Console.WriteLine(mySB);
+            mySB.Replace("o", "z");
+            Console.WriteLine(mySB);
+            mySB.Replace("i", "NOT");
+            Console.WriteLine(mySB);
         }
     }
 }
