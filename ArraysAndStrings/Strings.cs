@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Text.RegularExpressions;
 
 namespace ArraysAndStrings
@@ -29,9 +30,27 @@ namespace ArraysAndStrings
 
             // appending string
             testString = testString + " and I am a CS major";
+            Console.WriteLine(testString);
+
             // problems
             // we create a new instance of a string everytime we modify which causes our program to run slower
             // and use more memmory than needed
+
+            // Solution
+            // stringbuilder
+            // to use it we need to include System.Text
+            StringBuilder mySB = new StringBuilder("Hello World", 20);
+            Console.WriteLine(mySB);
+            Console.WriteLine("mySB capacity is: " + mySB.Capacity);
+
+            // we can also get a capacity
+            // what we would like the string builder to hold
+
+            // Mathods
+            // Append
+            mySB.Append(" is our first Program!");
+            Console.WriteLine(mySB);
+            Console.WriteLine("mySB capacity is: " + mySB.Capacity);
         }
     }
 }
