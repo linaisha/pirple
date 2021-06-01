@@ -26,6 +26,12 @@ namespace ArraysAndStrings
             // remove removes a list of characters from a starting point as an index
             string removeString = testString.Remove(17,6);
             Console.WriteLine(removeString);
+
+            // appending string
+            testString = testString + " and I am a CS major";
+            // problems
+            // we create a new instance of a string everytime we modify which causes our program to run slower
+            // and use more memmory than needed
         }
     }
 }
